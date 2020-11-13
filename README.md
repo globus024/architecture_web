@@ -1,2 +1,2 @@
 # architecture_web
-geegbrauns the architecture of the web
+geekbrains the architecture of the web
